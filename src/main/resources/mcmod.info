@@ -1,0 +1,16 @@
+[
+{
+  "modid": "deepmobaffixes",
+  "name": "Deep Mob Affixes",
+  "description": "Provides configurable DML affixes.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MisterPlus"],
+  "credits": "xt9 for creating DML",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
